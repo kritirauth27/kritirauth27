@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Kriti Rauth 👋
 
-<!--
-**kritirauth27/kritirauth27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student | 💻 Python & Web Development Learner
 
-Here are some ideas to get you started:
+I'm currently learning Python and Web Development and working on building practical projects. I enjoy exploring new technologies, participating in hackathons, and improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- 🐍 Python
+- 🌐 HTML, CSS & JavaScript
+- 🔧 Git & GitHub
+- 💡 Web Development
+
+## 📌 What I'm Interested In
+
+- 🚀 Building real-world projects
+- 🏆 Hackathons
+- 🌱 Learning new technologies
+- 🤝 Open-source projects
+- 💻 Software & Web Development
+
+## 🎯 My Goals
+
+- Build useful projects
+- Improve my programming skills
+- Participate in hackathons
+- Contribute to open source
+- Grow as a developer
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/kriti-rauth-676a01437
+
+---
+
+⭐ Thanks for visiting my profile!
